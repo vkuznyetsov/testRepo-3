@@ -1,4 +1,4 @@
-//first change
+//<!--change content-->//first change
 /*
  * Copyright (C) 2012 eXo Platform SAS.
  *
