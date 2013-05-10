@@ -1,4 +1,3 @@
-//1368197184847_<!--change content-->
  * Copyright (C) 2012 eXo Platform SAS.
  *
  * This is free software; you can redistribute it and/or modify it
