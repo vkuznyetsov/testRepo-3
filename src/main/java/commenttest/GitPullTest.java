@@ -1,3 +1,4 @@
+//some comment
 package commenttest;
 
 import java.util.ArrayList;
