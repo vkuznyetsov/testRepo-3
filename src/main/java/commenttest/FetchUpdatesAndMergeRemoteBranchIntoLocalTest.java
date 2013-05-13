@@ -20,7 +20,7 @@ package commenttest;
 
 import java.util.ArrayList;
 
-final class JavaCommentsTest
+final class FetchUpdatesAndMergeRemoteBranchIntoLocalTest
 {
    private ArrayList<Integer> numbers = new ArrayList<Integer>();
 
