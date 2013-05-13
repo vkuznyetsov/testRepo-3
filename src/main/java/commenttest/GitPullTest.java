@@ -1,4 +1,4 @@
-//some comment 18:10:57
+//some comment 18:10:57/////
 package commenttest;
 
 import java.util.ArrayList;
