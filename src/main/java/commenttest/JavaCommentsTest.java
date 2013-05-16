@@ -1,4 +1,3 @@
-//first change1368728868911
 /*
  * Copyright (C) 2012 eXo Platform SAS.
  *
