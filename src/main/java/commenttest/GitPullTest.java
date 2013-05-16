@@ -1,5 +1,4 @@
-//some comment 17:19:51
-package commenttest;
+//some content 1368717415587package commenttest;
 
 import java.util.ArrayList;
 
