@@ -1,4 +1,4 @@
-//some content 1368718015568import java.util.ArrayList;
+//some comment 01:42:45
 
 public class GitPullTest
 {
