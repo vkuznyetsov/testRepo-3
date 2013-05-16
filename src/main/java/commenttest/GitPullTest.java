@@ -1,5 +1,4 @@
-//some content 1368717415587package commenttest;
-
+//some content 1368717670940
 import java.util.ArrayList;
 
 public class GitPullTest
