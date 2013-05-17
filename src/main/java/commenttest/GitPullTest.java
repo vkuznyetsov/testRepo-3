@@ -1,4 +1,9 @@
-//some content 1368779046757public class GitPullTest
+//some content 1368779046757
+
+
+package commenttest;
+
+public class GitPullTest
 {
 
    private ArrayList<Integer> numbers = new ArrayList<Integer>();
