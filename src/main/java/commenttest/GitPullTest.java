@@ -1,5 +1,4 @@
-//some content 1368780808987
-package commenttest;
+//some content 1368782285575package commenttest;
 
 public class GitPullTest
 {
