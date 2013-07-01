@@ -1,4 +1,4 @@
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+//1372701426138_<!--change content-->
  * Lesser General Public License for more details.
  *
  * You should have received a copy of the GNU Lesser General Public
