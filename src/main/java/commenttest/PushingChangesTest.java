@@ -1,4 +1,4 @@
- * published by the Free Software Foundation; either version 2.1 of
+//1373620949625_<!--change content-->
  * the License, or (at your option) any later version.
  *
  * This software is distributed in the hope that it will be useful,
