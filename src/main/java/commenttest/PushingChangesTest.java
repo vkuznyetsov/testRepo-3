@@ -1,4 +1,3 @@
-//1374049745221_<!--change content-->
  *
  * This software is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
