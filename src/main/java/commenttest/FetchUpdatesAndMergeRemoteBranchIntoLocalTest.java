@@ -1,4 +1,4 @@
-//1387210541114_<!--change content--> * License along with this software; if not, write to the Free
+//1387226778647_<!--change content-->
  * Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
