@@ -1,4 +1,5 @@
-//1409909050605_<!--change content-->
+//1409909050605_change_content
+/*
  * Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
@@ -11,7 +12,7 @@ final class FetchUpdatesAndMergeRemoteBranchIntoLocalTest
 {
    private ArrayList<Integer> numbers = new ArrayList<Integer>();
 
-   public JavaCommentsTest()
+   public void JavaCommentsTest()
    {
       numbers.add(1);
       numbers.add(2);
